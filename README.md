@@ -1,8 +1,18 @@
-# React + Vite
+# AIコードレビューアプリ（OpenAI API利用）
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 概要
+AI（ChatGPT）がコードレビューを行ってくれるアプリです。  
+React＋Vite環境のコードに対して修正箇所や最適化の指摘をしてくれます。  
+回答自体もMarkdown形式で回答してくれます。
 
-Currently, two official plugins are available:
+## 使用言語
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/tailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindCSS" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 開発環境
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
